@@ -84,6 +84,8 @@ main{
     gap: 10px;
     flex-wrap: wrap;
     justify-content: center;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
 .section-3>*{
